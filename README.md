@@ -58,6 +58,3 @@ src/
     store.ts                 # Zustand state with drones and orders
 ```
 
-## License
-
-MIT
